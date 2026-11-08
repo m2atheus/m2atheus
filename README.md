@@ -16,7 +16,7 @@ Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na 
 - 🔭 **Trabalhando atualmente:** No desenvolvimento de aplicações full-stack (como o *Ponto Aqui*), indo da modelagem do banco de dados até o design da interface.
 - 🌱 **Estudando e praticando:** Docker, arquitetura de software e Flask.
 - 💼 **Buscando:** Uma oportunidade de estágio ou vaga júnior em **Desenvolvimento Back-end / Full-stack**.
-- 💬 **Pergunte-me sobre:** Python e Java, um pouco de Flutter/Dart, ou sobre os álbuns do Linkin Park e Arctic Monkeys.
+- 💬 **Pergunte-me sobre:** Python e Java, um pouco de Flutter/Dart, ou sobre os álbuns do Linkin Park.
 
 <br/>
 
