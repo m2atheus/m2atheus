@@ -23,10 +23,17 @@ Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na 
 ## 🛠️ Tecnologias Principais
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,flask,postgres,docker,dart,flutter,linux,git,github&theme=dark" alt="Minhas Skills" />
+  <a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
+  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" /></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
 </div>
-
-<br/>
 
 <br/>
 
