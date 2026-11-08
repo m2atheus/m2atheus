@@ -44,6 +44,6 @@ Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na 
 
 <div align="center">
   <!-- Lembre de trocar NOME_DO_REPO pelo nome real do projeto -->
-  <a href="https://github.com/m2atheus/NOME_DO_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/m2atheus/NOME_DO_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/m2atheus/Ponto-aqui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/m2atheus/ponto-aqui-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true" /></a>
 </div>
