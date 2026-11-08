@@ -1,12 +1,12 @@
-<h1 align="center">Oi, eu sou o SEU NOME</h1>
+<h1 align="center">Oi, eu sou o MATHEUS</h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação, em busca de transformar problemas em software que funciona.
+  Estudante de Sistemas de Informação.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/matheus-almeida-89a320186/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:matheusalmeida66@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://SEU_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -18,9 +18,9 @@ Curso **Bacharelado em Sistemas de Informação** na **UFRPE-UAST** (Unidade Aca
 
 Gosto de entender o problema antes de escrever a primeira linha de código. Hoje estudo e pratico desenvolvimento de software com foco em projetos reais, tanto da faculdade quanto pessoais, e estou sempre procurando algo novo para aprender.
 
-- Atualmente estudando: **SEU_FOCO_ATUAL** (ex.: arquitetura de software, Docker, testes)
-- Procurando: **estágio / primeira oportunidade** na área de **SUA_ÁREA**
-- Pergunte-me sobre: **SEU_ASSUNTO** (ex.: Java, banco de dados, React)
+- Atualmente estudando: **De tudo um pouco** (ex.: arquitetura de software, Docker, testes)
+- Procurando: **estágio** na área de **desenvolvimento**
+- Pergunte-me sobre: **JAVA e PYTHON** (ex.: Java, banco de dados, React)
 
 ---
 
@@ -79,4 +79,4 @@ Ou, se preferir que atualize sozinho:
 
 ## Contato
 
-Se quiser trocar uma ideia, falar de projeto ou de vaga, me chama no [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN) ou por [e-mail](mailto:seuemail@exemplo.com).
+Se quiser trocar uma ideia, falar de projeto ou de vaga, me chama no [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/matheus-almeida-89a320186/)) ou por [e-mail](mailto:matheusalmeida66@gmail.com).
