@@ -2,9 +2,9 @@
   <h1>Oi, eu sou o Matheus Almeida 👋</h1>
   <p>Estudante de Sistemas de Informação focado em transformar problemas complexos em código limpo e funcional.</p>
 
-  <a href="https://www.linkedin.com/in/matheus-almeida-89a320186/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:matheusalmeida66@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
-  <a href="https://instagram.com/m2atheus.exe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/matheus-almeida-89a320186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:matheusalmeida66@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
+  <a href="https://instagram.com/mah505_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br/>
