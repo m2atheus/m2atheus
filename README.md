@@ -31,11 +31,11 @@ Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=m2atheus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2atheus&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=m2atheus&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=m2atheus&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Linguagens" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m2atheus&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=m2atheus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
