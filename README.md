@@ -1,64 +1,48 @@
-<h1 align="center">Oi, eu sou o Matheus Almeida</h1>
+<div align="center">
+  <h1>Oi, eu sou o Matheus Almeida 👋</h1>
+  <p>Estudante de Sistemas de Informação focado em transformar problemas complexos em código limpo e funcional.</p>
 
-<p align="center">
-  Estudante de Sistemas de Informação, em busca de transformar problemas em software que funciona.
-</p>
+  <a href="https://www.linkedin.com/in/matheus-almeida-89a320186/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:matheusalmeida66@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-almeida-89a320186/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:matheusalmeida66@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" /></a>
-</p>
+<br/>
 
----
+## 👨‍💻 Sobre mim
 
-## Sobre mim
+Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na UFRPE-UAST[cite: 1]. Gosto de entender o problema a fundo antes de escrever a primeira linha de código, focando em criar soluções eficientes e com interfaces minimalistas.
 
-Curso **Bacharelado em Sistemas de Informação** na **UFRPE-UAST** (Unidade Acadêmica de Serra Talhada) e estou no **8º período**.
+- 🔭 **Trabalhando atualmente:** No desenvolvimento de aplicações full-stack (como o *Ponto Aqui*), indo da modelagem do banco de dados até o design da interface.
+- 🌱 **Estudando e praticando:** Docker, arquitetura de software, Flask e Flutter.
+- 💼 **Buscando:** Uma oportunidade de estágio ou vaga júnior em **Desenvolvimento Back-end / Full-stack**.
+- 💬 **Pergunte-me sobre:** Python, customização de ambientes Linux, design de interfaces ou sobre os álbuns do Arctic Monkeys.
 
-Gosto de entender o problema antes de escrever a primeira linha de código. Hoje estudo e pratico desenvolvimento de software com foco em projetos reais, tanto da faculdade quanto pessoais, e estou sempre procurando algo novo para aprender.
+<br/>
 
-- Atualmente estudando: **SEU_FOCO_ATUAL**
-- Procurando: **estágio / primeira oportunidade** na área de **SUA_ÁREA**
-- Pergunte-me sobre: **SEU_ASSUNTO**
+## 🛠️ Tecnologias
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,dart,flutter,postgres,docker,linux,ubuntu,git,github,figma&theme=dark" alt="Minhas Skills" />
+</div>
 
-## Tecnologias
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,mysql,postgres,git,github&theme=dark" />
-</p>
+## 📊 Estatísticas
 
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=m2atheus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2atheus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=m2atheus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2atheus&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=m2atheus&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
----
+<br/>
 
-## Projetos em destaque
+## 📌 Projetos em destaque
 
-<p align="center">
+<div align="center">
+  <!-- Substitua "NOME_DO_REPO" pelo nome exato do seu repositório -->
   <a href="https://github.com/m2atheus/NOME_DO_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/m2atheus/NOME_DO_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true" /></a>
-</p>
-
----
-
-## Contato
-
-Se quiser trocar uma ideia, falar de projeto ou de vaga, me chama no [LinkedIn](https://www.linkedin.com/in/matheus-almeida-89a320186/) ou por [e-mail](mailto:matheusalmeida66@hotmail.com).
-
----
-
-## Contato
-
-Se quiser trocar uma ideia, falar de projeto ou de vaga, me chama no [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/matheus-almeida-89a320186/)) ou por [e-mail](mailto:matheusalmeida66@gmail.com).
+</div>
