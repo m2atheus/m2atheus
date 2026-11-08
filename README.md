@@ -37,10 +37,11 @@ Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na 
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub em números
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m2atheus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m2atheus&show_icons=true&hide_border=true&hide_bg=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2atheus&hide_border=true&hide_bg=true&locale=pt-br" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
