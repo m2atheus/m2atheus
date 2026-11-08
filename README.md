@@ -4,30 +4,31 @@
 
   <a href="https://www.linkedin.com/in/matheus-almeida-89a320186/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:matheusalmeida66@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
+  <a href="https://instagram.com/m2atheus.exe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br/>
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na UFRPE-UAST[cite: 1]. Gosto de entender o problema a fundo antes de escrever a primeira linha de código, focando em criar soluções eficientes e com interfaces minimalistas.
+Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na UFRPE-UAST. Gosto de entender o problema a fundo antes de escrever a primeira linha de código, focando em criar soluções eficientes e com interfaces minimalistas.
 
 - 🔭 **Trabalhando atualmente:** No desenvolvimento de aplicações full-stack (como o *Ponto Aqui*), indo da modelagem do banco de dados até o design da interface.
-- 🌱 **Estudando e praticando:** Docker, arquitetura de software, Flask e Flutter.
+- 🌱 **Estudando e praticando:** Docker, arquitetura de software e Flask.
 - 💼 **Buscando:** Uma oportunidade de estágio ou vaga júnior em **Desenvolvimento Back-end / Full-stack**.
-- 💬 **Pergunte-me sobre:** Python, customização de ambientes Linux, design de interfaces ou sobre os álbuns do Arctic Monkeys.
+- 💬 **Pergunte-me sobre:** Python e Java, um pouco de Flutter/Dart, ou sobre os álbuns do Linkin Park e Arctic Monkeys.
 
 <br/>
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias Principais
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,dart,flutter,postgres,docker,linux,ubuntu,git,github,figma&theme=dark" alt="Minhas Skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,flask,postgres,docker,dart,flutter,linux,git,github&theme=dark" alt="Minhas Skills" />
 </div>
 
 <br/>
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=m2atheus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -42,7 +43,7 @@ Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na 
 ## 📌 Projetos em destaque
 
 <div align="center">
-  <!-- Substitua "NOME_DO_REPO" pelo nome exato do seu repositório -->
+  <!-- Lembre de trocar NOME_DO_REPO pelo nome real do projeto -->
   <a href="https://github.com/m2atheus/NOME_DO_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/m2atheus/NOME_DO_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true" /></a>
 </div>
