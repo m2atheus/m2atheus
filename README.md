@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Oi, eu sou o Matheus Almeida 👋</h1>
+  <h1>Oi, eu sou o Matheus👋</h1>
   <p>Estudante de Sistemas de Informação focado em transformar problemas complexos em código limpo e funcional.</p>
 
   <a href="https://www.linkedin.com/in/matheus-almeida-89a320186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
