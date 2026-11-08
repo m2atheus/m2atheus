@@ -39,10 +39,9 @@ Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na 
 </div>
 
 <br/>
-
 ## 📌 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/m2atheus/Ponto-aqui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=Ponto-aqui&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/m2atheus/ponto-aqui-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m2atheus&repo=ponto-aqui-app&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/m2atheus/Ponto-aqui"><img src="https://img.shields.io/badge/Ponto_Aqui_(Mobile)-Ver_Repositório-24292e?style=for-the-badge&logo=github" alt="Ponto Aqui" /></a>
+  <a href="https://github.com/m2atheus/ponto-aqui-app"><img src="https://img.shields.io/badge/Ponto_Aqui_(Web)-Ver_Repositório-24292e?style=for-the-badge&logo=github" alt="Ponto Aqui App" /></a>
 </div>
