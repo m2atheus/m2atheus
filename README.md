@@ -39,6 +39,7 @@ Sou estudante do **8º período de Bacharelado em Sistemas de Informação** na 
 </div>
 
 <br/>
+
 ## 📌 Projetos em destaque
 
 <div align="center">
